@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="ClienteWebService/build/generated-sources/jax-ws"/>
+	<classpathentry kind="src" path="ClienteWebService/build/generated/jax-wsCache/NewWebServiceAJM"/>
+	<classpathentry kind="src" path="WebServiceAJM/src/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="output" path="ClienteWebService/build/web/WEB-INF/classes"/>
+</classpath>
